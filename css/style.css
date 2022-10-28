@@ -2,6 +2,7 @@
 body{
     background: #34495e;
     color: #ecf0f1;
+    fonte-family:'arial';
 }
 .success{
     outline-style: none;
